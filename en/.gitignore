@@ -36,6 +36,7 @@ yarn-error.log
 /tools/*/composer.lock
 /tools/reports/*.txt
 !/tools/reports/.gitkeep
+.php-cs-fixer.cache
 
 # Déploiement
 deploy/.env
