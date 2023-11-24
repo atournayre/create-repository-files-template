@@ -6,6 +6,7 @@ on:
     branches:
       - "develop"
       - "main"
+      - "master"
 
 jobs:
   docker_build:

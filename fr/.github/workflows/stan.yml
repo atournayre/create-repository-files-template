@@ -6,6 +6,7 @@ on:
     branches:
       - "develop"
       - "main"
+      - "master"
 env:
   php-extensions: "json, sodium, ctype, iconv"
   php-tools: "composer:v2"
